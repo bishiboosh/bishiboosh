@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I've been an Android developper for more than a decade, and I'm always learning new stuff. The subjects that interest me deeply at the moment are : Jetpack Compose, KSP, Gradle plugins and many more !
+
+I've contributed to some projects on Github and plan to contribute more when I have the time.
+
 <!--
 **bishiboosh/bishiboosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
