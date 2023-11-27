@@ -4,6 +4,8 @@ I've been an Android developper for more than a decade, and I'm always learning 
 
 I've contributed to some projects on Github and plan to contribute more when I have the time.
 
+You can find more info on me on [my portfolio](https://valentinrocher.notion.site/Valentin-Rocher-Senior-Android-Developer-19a4d672fc004522bca1b8307c9a577d?pvs=4) !
+
 <!--
 **bishiboosh/bishiboosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
